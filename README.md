@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tom Pastor, a 23 years old software engineer based in France with an interest in frontend.
+I'm Tom Pastor, a 24 years old software engineer based in France with an interest in frontend.
 
 ### Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-pastor/)
