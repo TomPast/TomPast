@@ -1,28 +1,23 @@
-### Hi there 👋
+<h3 align="center">Hey! I'm Tom 👋</h3>
 
-I'm Tom Pastor, a 27 years old software engineer, with an interest in frontend. 
+<p align="center">
+A software engineer with an interest in <b>frontend and 3D development (ThreeJS 🤝).</b>
+</p>
+  
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="200" align="center" alt="GitHub Stats" src="https://github-readme-stats-tau-nine-81.vercel.app/api?username=TomPast&show_icons=true&custom_title=GitHub+Statistics&theme=dark&border_color=45475a&hide=contribs"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="345" align="center" alt="Top Language" src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=TomPast&layout=compact&theme=dark&border_color=45475a&hide=html,css"/></a>
+</div>
 
-### Contact
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-pastor/)
+<br>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/tom-pastor/"><img align="center" alt="GitHub Stats" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://tompastor.com"><img align="center" alt="GitHub Stats" src="https://img.shields.io/badge/My%20website-ffffff?style=for-the-badge"/></a>
+</div>
 
-### My tech stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+<br>
 
-### My tools
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-![](https://komarev.com/ghpvc/?username=TomPast)
+<div align="center">
+  <a href="https://komarev.com/ghpvc/?username=TomPast)"><img align="center" alt="GitHub Profile view stats" src="https://komarev.com/ghpvc/?username=TomPast"/></a>
+</div>
