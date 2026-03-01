@@ -19,5 +19,5 @@ A software engineer with an interest in <b>frontend and 3D development (ThreeJS 
 <br>
 
 <div align="center">
-  <a href="https://komarev.com/ghpvc/?username=TomPast)"><img align="center" alt="GitHub Profile view stats" src="https://komarev.com/ghpvc/?username=TomPast"/></a>
+  <a href="https://komarev.com/ghpvc/?username=TomPast"><img align="center" alt="GitHub Profile view stats" src="https://komarev.com/ghpvc/?username=TomPast"/></a>
 </div>
